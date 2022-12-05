@@ -18,7 +18,7 @@
 - Recibido de SoyHenry Bootcamp.
 - Actualmente estoy mejorando proyectos antiguos del bootcamp y realizando proyectos nuevos para aplicar y seguir aprendiendo conocimientos nuevos.
 - Actulmente estoy abierto para una nueva oportunidad de trabajo en el sector de Front End o Back End. <!-- [my resume](*LINK*) -->
-- En mi tiempo libre disfruto de los videojuegos ya que soy un entusiasta de ellos y para realizar entrenamiento fisico.
+- En mi tiempo libre disfruto de los videojuegos ya que soy un entusiasta de ellos y, tambien realizo entrenamiento fisico a diario.
 
 
 
@@ -30,16 +30,17 @@
 
 <p align="center">
 
-💻 &nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?style=flat&logo=express&logoColor=000000)
-🛢 &nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=PostgreSQL)
+- 💻 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?style=flat&logo=express&logoColor=000000)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=PostgreSQL)
+
 
 <br>
 
