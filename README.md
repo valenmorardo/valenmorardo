@@ -78,12 +78,12 @@
 
 <li>
 
- 📧 Send me an email: valen.morardo18@gmail.com
+ 📧 email: valen.morardo18@gmail.com
 </li>
 
 <li>
 
- 🌐 [Contact me on LinkedIn](https://www.linkedin.com/in/valentin-morardo-b125ba240/)
+ 🌐 [LinkedIn](https://www.linkedin.com/in/valentin-morardo-b125ba240/)
 </li>
 
 
