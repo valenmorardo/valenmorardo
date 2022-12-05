@@ -67,7 +67,7 @@
 <br>
 <br>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 <br>
@@ -80,7 +80,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/valentin-morardo-b125ba240/" target="_blank">
-<img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/LinkedIn.png" alt=linkedin style="margin-bottom: 5px;" width='10px' height='10px'/>
+<img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/LinkedIn.png" alt=linkedin style="margin-bottom: 5px;" width='100px' height='100px'/>
 </a>
 </li>
 
@@ -88,7 +88,7 @@
 
 <li>
 <a href="mailto:valen.morardo18@gmail.com" target="_blank">
-<img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/mail.png" t=mail style="margin-bottom: 5px;" width='10px' height='10px'/>
+<img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/mail.png" t=mail style="margin-bottom: 5px;" width='100px' height='100px'/>
 </a>
 </li>
 	
