@@ -4,7 +4,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer...&hearts;++;Self-taught+and+active+learner/researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-<br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <picture><img src = "https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -18,7 +20,7 @@
 - Actulmente estoy abierto para una nueva oportunidad de trabajo en el sector de Front End o Back End. <!-- [my resume](*LINK*) -->
 - En mi tiempo libre disfruto de los videojuegos ya que soy un entusiasta de ellos y para realizar entrenamiento fisico.
 
-<br><br>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -43,7 +45,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<br>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadisticas de Github </b>
 
@@ -64,12 +66,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-<br>
+
 
 ## <b> ¡¡Conectemonos!!</b><img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/handshake.gif" width ="80">
 
-<br>
+
 <div align='left'>
 
 <ul>
@@ -86,3 +87,5 @@
 
 
 </ul>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
