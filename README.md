@@ -75,10 +75,13 @@
 <ul>
 
 <li>
-<div>
-- 📧 Send me an email: valen.morardo18@gmail.com
-- 🌐 [Contact me on LinkedIn](https://www.linkedin.com/in/valentin-morardo-b125ba240/)
-</div>
+
+ 📧 Send me an email: valen.morardo18@gmail.com
+</li>
+
+<li>
+
+ 🌐 [Contact me on LinkedIn](https://www.linkedin.com/in/valentin-morardo-b125ba240/)
 </li>
 
 
