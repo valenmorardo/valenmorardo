@@ -1,16 +1,11 @@
-
 <h1 align="center"><b>Hi , I'm Valentin Morardo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer...&hearts;++;Self-taught+and+active+learner/researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-
 <br>
 
-
-
-	
 ## <picture><img src = "https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/Right_Side.gif" width = 250px></picture>
@@ -28,30 +23,30 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Skills</b>
+
 <br>
 
 <p align="center">
 
 💻 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?style=flat&logo=express&logoColor=000000)
+![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?style=flat&logo=express&logoColor=000000)
 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=PostgreSQL)
 
 <br>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <br>
 
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadisticas de Github </b>
+
 <br>
 
 <div align="center">
@@ -73,30 +68,18 @@
 <br>
 
 ## <b> ¡¡Conectemonos!!</b><img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/handshake.gif" width ="80">
+
 <br>
 <div align='left'>
 
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/valentin-morardo-b125ba240/" target="_blank">
-<img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/LinkedIn.png" alt=linkedin style="margin-bottom: 5px;" width='100px' height='100px'/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:valen.morardo18@gmail.com" target="_blank">
-<img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/mail.png" t=mail style="margin-bottom: 5px;" width='100px' height='100px'/>
-</a>
-</li>
-	
-</ul>
+<div>
+- 📧 Send me an email: valen.morardo18@gmail.com
+- 🌐 [Contact me on LinkedIn](https://www.linkedin.com/in/valentin-morardo-b125ba240/)
 </div>
+</li>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
+
+</ul>
