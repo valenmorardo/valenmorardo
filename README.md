@@ -39,7 +39,7 @@
   ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?style=flat&logo=express&logoColor=000000)
-- 🛢 &nbsp;
+🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=PostgreSQL)
 
@@ -80,7 +80,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/valentin-morardo-b125ba240/" target="_blank">
-<img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/LinkedIn.png" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/LinkedIn.png" alt=linkedin style="margin-bottom: 5px;" width='10px' height='10px'/>
 </a>
 </li>
 
@@ -88,7 +88,7 @@
 
 <li>
 <a href="mailto:valen.morardo18@gmail.com" target="_blank">
-<img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/mail.png" t=mail style="margin-bottom: 5px;" />
+<img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/mail.png" t=mail style="margin-bottom: 5px;" width='10px' height='10px'/>
 </a>
 </li>
 	
