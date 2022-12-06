@@ -20,6 +20,7 @@
 - Actualmente estoy mejorando proyectos antiguos del bootcamp y realizando proyectos nuevos para aplicar y seguir aprendiendo conocimientos nuevos.
 - Tambien estoy abierto para una nueva oportunidad de trabajo en el sector de Front End o Back End. <!-- [my resume](*LINK*) -->
 - En mi tiempo libre disfruto de los videojuegos ya que soy un entusiasta de ellos y, tambien realizo entrenamiento fisico a diario.
+- Tambien estoy estudiando y mejorando mi ingles.
 
 
 
