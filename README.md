@@ -32,16 +32,20 @@
 
 <p align="center">
 
-- 💻 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?style=flat&logo=express&logoColor=000000)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=PostgreSQL)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 <br>
