@@ -83,7 +83,7 @@
 
 <li>
 
- 📧 email: valen.morardo18@gmail.com
+ 📧 email: valentin.morardo@gmail.com
 </li>
 
 <li>
