@@ -39,6 +39,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
