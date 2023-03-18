@@ -14,7 +14,7 @@
 
 <br>
 
-- Soy Cordoba, Argentina.
+- Soy de Cordoba, Argentina.
 - Desarrollador full stack autodiacta y apasionado.
 - Recibido de SoyHenry Bootcamp.
 - Actualmente estoy mejorando proyectos antiguos del bootcamp y realizando proyectos nuevos para aplicar y seguir aprendiendo conocimientos nuevos.
