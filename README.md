@@ -60,9 +60,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Littyfever">
-  <img src="https://github-stats-readme-seven.vercel.app/api?username=Littyfever&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=DB5DE7&text_color=D3D3D3&bg_color=0,000000,883490" width="450"/>
-  <img src="https://github-stats-readme-seven.vercel.app/api/top-langs?username=Littyfever&show_icons=true&locale=en&layout=compact&line_height=20&title_color=D3D3D3&icon_color=DB5DE7&text_color=D3D3D3&bg_color=0,000000,883490" width="375"  alt="Littyfever"/>
+<a href="https://github.com/valenmorardo">
+  <img src="https://github-stats-readme-seven.vercel.app/api?username=valenmorardo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D3D3D3&icon_color=DB5DE7&text_color=D3D3D3&bg_color=0,000000,883490" width="450"/>
+  <img src="https://github-stats-readme-seven.vercel.app/api/top-langs?username=valenmorardo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=D3D3D3&icon_color=DB5DE7&text_color=D3D3D3&bg_color=0,000000,883490" width="375"  alt="valenmorardo"/>
 
 </a>
 </div>
