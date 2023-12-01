@@ -58,7 +58,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadisticas de Github </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github stats </b>
 
 <br>
 
@@ -80,7 +80,7 @@
 
 
 
-## <b> ¡¡Conectemonos!!</b><img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/handshake.gif" width ="80">
+## <b> Let's connect!</b><img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/handshake.gif" width ="80">
 
 
 <div align='left'>
