@@ -1,7 +1,7 @@
-<h1 align="center"><b>Hi, i'm Valentin</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, i'm Valentin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer...&hearts"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer...&hearts"></a>
 </p>
 
 
@@ -14,13 +14,14 @@
 
 <br>
 
-- Soy de Cordoba, Argentina.
-- Desarrollador full stack autodiacta y apasionado.
-- Recibido de SoyHenry Bootcamp.
-- Actualmente estoy mejorando proyectos antiguos del bootcamp y realizando proyectos nuevos para aplicar y seguir aprendiendo conocimientos nuevos.
-- Tambien estoy abierto para una nueva oportunidad de trabajo en el sector de Front End o Back End. <!-- [my resume](*LINK*) -->
-- En mi tiempo libre disfruto de los videojuegos ya que soy un entusiasta de ellos.
-- Tambien estoy estudiando y mejorando mi ingles.
+- I'm from Alta Gracia, Cordoba, Argentina 📍
+- I'm 21 years old ⏱
+- Graduated from SoyHenry bootcamp as a full stack web developer 🎓
+- I'm open to a new job position in this field 🤝
+- I'm studying systems engineering at the National Technological University of Córdoba 📚
+- I'm a gaming enthusiast. My favorite videogame is Skyrim 🎮 ⚔
+- I LOVE cats. I have three at my home 😺
+- I'm studying English at an institute in my city 📚
 
 
 
