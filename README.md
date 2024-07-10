@@ -15,7 +15,7 @@
 <br>
 
 - I'm from Alta Gracia, Cordoba, Argentina 📍
-- I'm 21 years old ⏱
+- I'm 22 years old ⏱
 - Graduated from SoyHenry bootcamp as a full stack web developer 🎓
 - I'm open to a new job position in this field 🤝
 - I'm studying systems engineering at the National Technological University of Córdoba 📚
