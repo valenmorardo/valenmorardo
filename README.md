@@ -90,11 +90,6 @@
 
 <li>
 
- 📧 email: valentin.morardo@gmail.com
-</li>
-
-<li>
-
  🌐 [LinkedIn](https://www.linkedin.com/in/valentin-morardo-b125ba240/)
 </li>
 
