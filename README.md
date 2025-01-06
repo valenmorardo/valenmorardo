@@ -16,12 +16,13 @@
 
 - I'm from Alta Gracia, Cordoba, Argentina 📍
 - I'm 22 years old ⏱
-- Graduated from SoyHenry bootcamp as a full stack web developer 🎓
-- I'm open to a new job position in this field 🤝
+- Graduated from a bootcamp as a full stack web developer 🎓
+- I'm open to a new job position in backend development 🤝
+- I'm currently studying Golang. Hi Gopher! 🧑‍💻
 - I'm studying systems engineering at the National Technological University of Córdoba 📚
 - I'm a gaming enthusiast. My favorite videogame is Skyrim 🎮 ⚔
-- I LOVE cats. I have three at my home 😺
-- I'm studying English at an institute in my city 📚
+- I LOVE cats. I have four at my home 😺
+- I'm currently studying English at an institute in my city 📚
 
 
 
