@@ -5,8 +5,6 @@
 </p>
 
 
-
-
 ## <picture><img src = "https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/Right_Side.gif" width = 250px></picture>
@@ -69,10 +67,6 @@
 <br>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
 ## <b> Let's connect!</b><img src="https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/handshake.gif" width ="80">
 
 
@@ -88,5 +82,5 @@
 
 </ul>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
