@@ -14,16 +14,13 @@
 
 <br>
 
-- I'm from Alta Gracia, Cordoba, Argentina 📍
-- I'm 22 years old ⏱
-- Graduated from a bootcamp as a full stack web developer 🎓
-- I'm open to a new job position in backend development 🤝
-- I'm currently studying Golang. Hi Gopher! 🧑‍💻
-- I'm studying systems engineering at the National Technological University of Córdoba 📚
-- I'm a gaming enthusiast. My favorite videogame is Skyrim 🎮 ⚔
-- I LOVE cats. I have four at my home 😺
-- I'm currently studying English at an institute in my city 📚
-
+- I'm from Alta Gracia, Cordoba, Argentina
+- I'm 22 years old
+- Graduated from a bootcamp as a full stack web developer
+- I'm open to a new job position in backend development
+- I'm currently studying Golang. Hi Gopher!
+- I'm studying systems engineering at the National Technological University of Córdoba 
+- I'm currently studying English at an institute in my city 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
