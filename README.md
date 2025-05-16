@@ -1,9 +1,13 @@
 <h1 align="center"><b>Hi, i'm Valentin </b></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Golang+Backend+Developer"></a>
-  <h3 center=true><a href="https://valentin-morardo.vercel.app/" >Portfolio</a></h3>
-</p>
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Golang+Backend+Developer" alt="Typing SVG">
+  </a>
+  <h3>
+    <a href="https://valentin-morardo.vercel.app/">Portfolio</a>
+  </h3>
+</div>
 
 
 ## <picture><img src = "https://github.com/Littyfever/Littyfever/blob/main/assets/readmeImages/about_me.gif" width = 50px></picture> **About me**
